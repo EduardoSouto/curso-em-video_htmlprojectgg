@@ -3,9 +3,15 @@
 
 <head>
 	<meta charset="UTF-8"/>
-	<title>
-		Tudo Sobre Google Glass
-	</title>
+	
+	<title>Tudo Sobre Google Glass</title>
+	
+	<style>
+		p {
+			text-align: justify;
+			text-indent: 50px;
+		}
+	</style>
 </head>
 
 <body>
